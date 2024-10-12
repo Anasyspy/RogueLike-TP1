@@ -6,7 +6,7 @@ public class DIROgue {
 
 	public static void main(String[] args) {
 
-		// Cette invocation est ici juste pour vous demontrer quelques choses
+		// Cette invocation est ici juste pour vous demontrer quelques choses.
 		// TODO: supprimez l'appel a la methode expliquerQuelquesChoses()
 		expliquerQuelquesChoses();
 
