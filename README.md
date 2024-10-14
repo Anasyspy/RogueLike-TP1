@@ -1,6 +1,6 @@
 # RogueLike-TP1
 
-![Alt text](relative%20https://cdn.discordapp.com/attachments/1036096711271137422/1295303175364153375/image.png?ex=670e2896&is=670cd716&hm=a137e1cbe1e8c98a9318b0261b333f7d7b376e91fe1e48ac9b8b469dadfeafb6&?raw=true "FlowChart")
+![FlowChart](FlowChart.png)
 Ce projet est réalisé dans le cadre du premier travail pratique du cours IFT1025 – Programmation 2 (Automne 2024). Le but de ce TP est de créer une infrastructure de base pour un jeu de type Rogue-like, en prenant le point de vue des testeurs de jeux vidéo.
 
 Fonctionnalités principales :
